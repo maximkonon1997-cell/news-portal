@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Молоко Домик",
+    "description": "Пастеризованное молоко 3.2%",
+    "price": 89,
+    "category": "dairy",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/e3f2fd/000000?text=Milk",
+    "weight": "900мл"
+  },
+  {
+    "id": 2,
+    "title": "Хлеб Бородинский",
+    "description": "Традиционный черный хлеб",
+    "price": 55,
+    "category": "bakery",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffe0b2/000000?text=Bread",
+    "weight": "400г"
+  },
+  {
+    "id": 3,
+    "title": "Яблоки Гала",
+    "description": "Сладкие красные яблоки",
+    "price": 120,
+    "category": "fruits",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffcdd2/000000?text=Apples",
+    "weight": "1кг"
+  },
+  {
+    "id": 4,
+    "title": "Бананы",
+    "description": "Спелые бананы Эквадор",
+    "price": 140,
+    "category": "fruits",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/fff9c4/000000?text=Bananas",
+    "weight": "1кг"
+  },
+  {
+    "id": 5,
+    "title": "Сыр Российский",
+    "description": "Твердый сыр 50%",
+    "price": 280,
+    "category": "dairy",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffecb3/000000?text=Cheese",
+    "weight": "200г"
+  },
+  {
+    "id": 6,
+    "title": "Творог 5%",
+    "description": "Рассыпчатый творог",
+    "price": 160,
+    "category": "dairy",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffffff/000000?text=Curd",
+    "weight": "350г"
+  },
+  {
+    "id": 7,
+    "title": "Куриное филе",
+    "description": "Охлажденная грудка",
+    "price": 380,
+    "category": "meat",
+    "isAvailable": true,
+    "image": "https://cs11.pikabu.ru/post_img/big/2020/06/30/5/1593498600112112866.png",
+    "weight": "1кг"
+  },
+  {
+    "id": 8,
+    "title": "Говядина мякоть",
+    "description": "Свежая говядина без кости",
+    "price": 750,
+    "category": "meat",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ef9a9a/000000?text=Beef",
+    "weight": "1кг"
+  },
+  {
+    "id": 9,
+    "title": "Огурцы",
+    "description": "Свежие огурцы гладкие",
+    "price": 190,
+    "category": "vegetables",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/c8e6c9/000000?text=Cucumber",
+    "weight": "1кг"
+  },
+  {
+    "id": 10,
+    "title": "Помидоры",
+    "description": "Томаты розовые",
+    "price": 250,
+    "category": "vegetables",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/ffab91/000000?text=Tomato",
+    "weight": "1кг"
+  },
+  {
+    "id": 11,
+    "title": "Багет Французский",
+    "description": "Хрустящий белый хлеб",
+    "price": 70,
+    "category": "bakery",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/fff3e0/000000?text=Baguette",
+    "weight": "300г"
+  },
+  {
+    "id": 12,
+    "title": "Круассан с шоколадом",
+    "description": "Свежая выпечка",
+    "price": 90,
+    "category": "bakery",
+    "isAvailable": true,
+    "image": "https://placehold.co/200/d7ccc8/000000?text=Croissant",
+    "weight": "1шт"
+  }
+]

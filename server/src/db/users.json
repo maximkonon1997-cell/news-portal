@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1772641438661,
+    "name": "Каран",
+    "email": "karan@gmail.com",
+    "login": "karanus",
+    "phone": "+375148867709",
+    "password": "1111",
+    "cart": [
+      {
+        "productId": 3,
+        "count": 8
+      },
+      {
+        "productId": 1,
+        "count": 2
+      },
+      {
+        "productId": 2,
+        "count": 3
+      },
+      {
+        "productId": 7,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1772711282643,
+    "name": "Яйцы",
+    "email": "убийцы@balls.cum",
+    "login": "1",
+    "phone": "+375148867709",
+    "password": "1",
+    "cart": [
+      {
+        "productId": 2,
+        "count": 48
+      },
+      {
+        "productId": 3,
+        "count": 2
+      }
+    ]
+  }
+]
